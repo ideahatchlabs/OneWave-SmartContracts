@@ -34,7 +34,7 @@ This repository is presented as a portfolio showcase of our smart contract archi
 | **Token** | OneWave (`WAVE`) |
 | **Maximum supply** | 250,000,000 WAVE |
 | **Contracts delivered** | 9 core contracts |
-| **Completion date** | 21 June 2025 |
+| **Completion date** | 02 February 2026 |
 | **Core stack** | Solidity, OpenZeppelin, Hardhat, TypeScript and Viem |
 
 ## The Challenge
