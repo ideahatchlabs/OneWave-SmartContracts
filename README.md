@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-OneWave required more than a standalone token contract. The ecosystem needed a connected on-chain foundation that could manage the complete WAVE token lifecycle, from initial supply and token sale to long-term vesting, staking, treasury operations, migration and community governance
+OneWave required more than a standalone token contract. The ecosystem needed a connected on-chain foundation that could manage the complete WAVE token lifecycle, from initial supply and token sale to long-term vesting, staking, treasury operations, migration and community governance.
 
 **IdeaHatch Labs designed and developed a modular suite of nine Solidity smart contracts for OneWave on BNB Smart Chain.** Each module has a focused responsibility while working as part of one coordinated ecosystem.
 
